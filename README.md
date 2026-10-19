@@ -1,5 +1,5 @@
 # SubstituloRT
-SubstitlesRT es un software para traducir en tiempo real lo que se reproduzca en su maquina, sea una llamada de discord en ingles, una conferencia, pelicula o charla casual.
+SubstitlesRT es un software Open source para traducir en tiempo real lo que se reproduzca en su maquina, sea una llamada de discord en ingles, una conferencia, pelicula o charla casual.
 
 #Principales caracteristicas
 -100% local, substitulosRt no utiliza apis o ias para funcionar, por su funcionamiento solo necesita las bibliotecas que se encuentran en equeriments.txt
@@ -28,5 +28,7 @@ SubstitlesRT es un software para traducir en tiempo real lo que se reproduzca en
 
 #Ejecución
 -"python src/translator_core.py"
+
+
 #Ejemplo de uso
 <img width="1397" height="887" alt="image" src="https://github.com/user-attachments/assets/65cc362e-5f75-4497-a128-c28e24fc34b8" />
