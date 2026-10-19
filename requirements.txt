@@ -1,0 +1,6 @@
+argostranslate
+numpy
+openai-whisper
+PyAudioWPatch
+python-dotenv
+SoundCard
